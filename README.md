@@ -22,8 +22,11 @@ Training and Knowledge Transfer: Provide training sessions to AtliQ Grands' inte
 
 Technologies Used
 
+
 Data Collection and Integration: Coadbasics.io
+
 Data Analytics: MIcrosoft Exel
+
 Dashboard Development: Power BI
 
 
